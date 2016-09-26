@@ -8,7 +8,8 @@ ReactDOM.render(
   <div>
     <CoordinatesButton />
     <DelayedButton />
-  </div>,
+  </div>
+  ,
   document.getElementById('main')
 );
 
